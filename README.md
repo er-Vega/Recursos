@@ -4,3 +4,4 @@ Un pequeño repositorio de recursos para aprender programación y diversos temas
 **Recursos :**
 - [Libros de programación en español midudev](https://librosgratis.dev/)
 - [Aprende Diseño de Sistemas](https://github.com/donnemartin/system-design-primer)
+- [Proyectos roadmap ciberseguridad](https://github.com/carterperez-dev/cybersecurity-projects)
