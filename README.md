@@ -1,6 +1,6 @@
 # README
 Un pequeño repositorio de recursos para aprender programación y diversos temas relacionados, para reforzar o aprender cosas nuevas 😀
-
+<div align="center"><img src="images/startimage.jpg" width="75%"></div>
 Contenido en español: ...
 
 **Recursos :**
