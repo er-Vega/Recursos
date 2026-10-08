@@ -1,5 +1,5 @@
 # README
-Un pequeño repositorio de recursos para aprender programación
+Un pequeño repositorio de recursos para aprender programación y diversos temas relacionados, para reforzar o aprender cosas nuevas 😀
 
 **Recursos :**
 - [Libros de programación en español midudev](https://librosgratis.dev/)
